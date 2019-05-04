@@ -4,7 +4,6 @@ title: "centos7升级最新kernel"
 date: 2019-05-04 18:40:00
 categories: main
 ---
-
 ### 前言
 活跃各类别内核版本见[官方](https://www.kernel.org/category/releases.html)。  
 主要有以下几个类别：  
