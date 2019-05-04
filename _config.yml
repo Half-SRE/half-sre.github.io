@@ -1,1 +1,11 @@
+# Site settings
+title: 半步运维人
+email: damonops@163.com
+description: personal blog, record my work and life, happy or sad
+baseurl: ""
+url: "https://halfsre.com"
+github_username: Half-SRE
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
