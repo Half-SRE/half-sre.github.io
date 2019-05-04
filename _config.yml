@@ -1,11 +1,19 @@
 # Site settings
 title: 半步运维人
+tagline:      A responsive theme for your project on GitHub Pages
 email: damonops@163.com
 description: personal blog, record my work and life, happy or sad
 baseurl: ""
-url: "https://halfsre.com"
 github_username: Half-SRE
+paginate:     1
+locale:       "en"
+author:
+  name:       Damon
+  url:        https://halfsre.com
 
+gems:
+  - jekyll-paginate
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+
