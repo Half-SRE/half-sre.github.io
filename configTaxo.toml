@@ -3,9 +3,9 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+category = "分类"
+tag = "标签"
+series = "系列"
 
 [privacy]
 
